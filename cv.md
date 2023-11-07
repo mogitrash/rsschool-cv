@@ -52,6 +52,7 @@ function narcissistic(value) {
 ## Languages
 
 - English - Intermediate (according to test at [EFSET](efset.org))
+  ![EFSET test result](/images/test.png)
 - Russian - Native
 - Belarusian - Intermediate
 
