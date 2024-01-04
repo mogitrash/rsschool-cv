@@ -48,6 +48,8 @@ function narcissistic(value) {
 - Udemy
   - [WEB Developer](https://www.udemy.com/course/webdeveloper/)
   - [Full JavaScript Course ](https://www.udemy.com/course/javascript_full/) (in progress)
+- RS SCHOOL
+  - JavaScript/Front-end 2023Q4 (in progress)
 
 ## Languages
 
