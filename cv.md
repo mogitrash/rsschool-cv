@@ -17,10 +17,14 @@ I am a junior frontend developer from Minsk. At the moment I am studying at the 
 ## Skills
 
 - HTML5
-- CSS (SCSS, BEM)
-- JavaScript (basic knowledge)
+- CSS (SCSS)
+- JavaScript
+- TypeScript
+- Webpack
+- React (CRA)
 - Git
-- C (basic knowledge)
+- Figma
+- Jira
 
 ## Code example
 
@@ -35,11 +39,15 @@ function narcissistic(value) {
 }
 ```
 
-## My projects
+## My projects (from old to new)
 
 - [Portfolio draft](https://mogitrash.github.io/portfolio/)
 - [Service site](https://mogitrash.github.io/uber/)
 - [Product site](https://mogitrash.github.io/pulse/)
+- [Coffee House](https://rolling-scopes-school.github.io/mogitrash-JSFE2023Q4/coffee-house/src/)
+- [Hangman](https://rolling-scopes-school.github.io/mogitrash-JSFE2023Q4/hangman/)
+- [Nonograms](https://rolling-scopes-school.github.io/mogitrash-JSFE2023Q4/nonograms/)
+- [Puzzle](https://rolling-scopes-school.github.io/mogitrash-JSFE2023Q4/rss-puzzle/)
 
 ## Education
 
@@ -47,9 +55,11 @@ function narcissistic(value) {
   - Information networks and technologies in the gaming industry (in progress)
 - Udemy
   - [WEB Developer](https://www.udemy.com/course/webdeveloper/)
-  - [Full JavaScript Course ](https://www.udemy.com/course/javascript_full/) (in progress)
-- RS SCHOOL
-  - JavaScript/Front-end 2023Q4 (in progress)
+  - [Full course on JavaScript + React](https://www.udemy.com/course/javascript_full/?couponCode=LEADERSALE24A)
+  - [Full JavaScript Course ](https://www.udemy.com/course/javascript_full/)
+- The Rolling Scopes School
+  - [JavaScript / Front-end Course](https://rs.school/)
+
 
 ## Languages
 
