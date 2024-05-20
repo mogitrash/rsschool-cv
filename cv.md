@@ -60,6 +60,7 @@ function narcissistic(value) {
 - The Rolling Scopes School
   - [JavaScript / Front-end Course](https://rs.school/)
 
+
 ## Languages
 
 - English - Intermediate (according to test at [EFSET](efset.org))
