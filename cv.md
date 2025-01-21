@@ -31,19 +31,6 @@ I am a junior frontend developer from Minsk. At the moment I am studying at the 
 - Figma
 - Jira
 
-## Code example
-
-```
-function narcissistic(value) {
-  let nums = (value + '').split('');
-  let res = 0;
-  nums.forEach( e => {
-    res += Math.pow(+e, nums.length);
-  })
-  return res == value ? true : false;
-}
-```
-
 ## My projects (from old to new)
 
 - [Portfolio draft](https://mogitrash.github.io/portfolio/)
