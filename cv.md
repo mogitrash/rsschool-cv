@@ -16,6 +16,11 @@ I am a junior frontend developer from Minsk. At the moment I am studying at the 
 
 ## Skills
 
+- Angular
+- Angular Material
+- PrimeNG
+- NgRx
+- RxJS
 - HTML5
 - CSS (SCSS)
 - JavaScript
@@ -58,8 +63,12 @@ function narcissistic(value) {
   - [Full course on JavaScript + React](https://www.udemy.com/course/javascript_full/?couponCode=LEADERSALE24A)
   - [Full JavaScript Course ](https://www.udemy.com/course/javascript_full/)
 - The Rolling Scopes School
-  - [JavaScript / Front-end Course](https://rs.school/)
+  - [JavaScript / Front-end Course](https://app.rs.school/certificate/zlavrnjc)
+  - [Angular Course](https://app.rs.school/certificate/puvsqi6z)
 
+
+## Experience
+ - Dev Team Inc. Angular developer. Sep 2024 - Present
 
 ## Languages
 
