@@ -63,6 +63,6 @@ I am a junior frontend developer from Minsk. At the moment I am studying at the 
   
   ![EFSET test result](/images/test.png)
 - Russian - Native
-- Belarusian - Intermediate
+- Belarusian - Native
 
 
